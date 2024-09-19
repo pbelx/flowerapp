@@ -1,17 +1,5 @@
 # flowerapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flowerapp
+The Bushbean Flower Counting App is a tool designed to help 
+agricultural researchers and farmers accurately count and track the number of flowers on bushbean plants. 
+This app streamlines the process of collecting data for plant growth studies and helps in monitoring the flowering stages,
+which is critical for yield estimation and analysis.
